@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quan-ly-cong-viec-react/static/css/main.64ef27d2.chunk.css",
+    "main.js": "/quan-ly-cong-viec-react/static/js/main.be936f92.chunk.js",
+    "main.js.map": "/quan-ly-cong-viec-react/static/js/main.be936f92.chunk.js.map",
+    "runtime-main.js": "/quan-ly-cong-viec-react/static/js/runtime-main.d49b98c6.js",
+    "runtime-main.js.map": "/quan-ly-cong-viec-react/static/js/runtime-main.d49b98c6.js.map",
+    "static/js/2.ae7e9ee9.chunk.js": "/quan-ly-cong-viec-react/static/js/2.ae7e9ee9.chunk.js",
+    "static/js/2.ae7e9ee9.chunk.js.map": "/quan-ly-cong-viec-react/static/js/2.ae7e9ee9.chunk.js.map",
+    "static/js/3.ec32613c.chunk.js": "/quan-ly-cong-viec-react/static/js/3.ec32613c.chunk.js",
+    "static/js/3.ec32613c.chunk.js.map": "/quan-ly-cong-viec-react/static/js/3.ec32613c.chunk.js.map",
+    "index.html": "/quan-ly-cong-viec-react/index.html",
+    "static/css/main.64ef27d2.chunk.css.map": "/quan-ly-cong-viec-react/static/css/main.64ef27d2.chunk.css.map",
+    "static/js/2.ae7e9ee9.chunk.js.LICENSE.txt": "/quan-ly-cong-viec-react/static/js/2.ae7e9ee9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d49b98c6.js",
+    "static/js/2.ae7e9ee9.chunk.js",
+    "static/css/main.64ef27d2.chunk.css",
+    "static/js/main.be936f92.chunk.js"
+  ]
+}
